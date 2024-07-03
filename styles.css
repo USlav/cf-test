@@ -1,0 +1,25 @@
+form{
+	width: 300px;
+}
+label{
+	display: block;
+	margin-bottom: 8px;
+}
+.label1{
+	display: block;
+	margin-bottom: 30px;
+	color: aqua;
+}
+.green{
+	color: lawngreen;
+	display: inline-block;
+}
+.sqlJobs{
+	display: inline-block;
+}
+input{
+	display: block;
+	width: 100%;
+	padding: 8px;
+	margin-bottom: 16px;
+}
